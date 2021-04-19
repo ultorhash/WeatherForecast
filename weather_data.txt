@@ -1,4 +1,0 @@
-City | Date | Time | Temperature (°C) | Wind (m/s) | Clouds (%) | Pressure (hPa)
-
-Paris | 19.04.2021 | 23:07 | 11,89 | 2,06 | 0 | 1018
-Moscow | 19.04.2021 | 23:07 | 6,96 | 5 | 0 | 1023
