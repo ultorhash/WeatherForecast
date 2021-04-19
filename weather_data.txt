@@ -1,4 +1,0 @@
-City | Date | Time | Temperature (°C) | Wind (m/s) | Clouds (%) | Pressure (hPa)
-
-Paris | 19.04.2021 | 22:54 | 11,87 | 2,06 | 0 | 1018
-Cracow | 19.04.2021 | 22:54 | 7,59 | 5,66 | 90 | 1006
